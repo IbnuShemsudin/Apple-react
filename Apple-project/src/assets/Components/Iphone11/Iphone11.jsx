@@ -16,8 +16,8 @@ function Iphone11() {
 				</div>
 				<div className="links-wrapper">
 					<ul>
-						<li><a href="">Learn more</a></li>
-						<li><a href="">Buy</a></li>
+						<li><a href="#learn-more">Learn more</a></li>
+						<li><a href="#buy">Buy</a></li>
 					</ul> 
 				</div>
 			</div>
