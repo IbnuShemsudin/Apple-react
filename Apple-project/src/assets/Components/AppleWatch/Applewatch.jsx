@@ -1,6 +1,6 @@
 import React from 'react'
 import WatchLogo from "../../../../public/home/watch-series-5.jpg"
-import AppleCardLogo from "../../../../public/home/apple-card.jpg"
+import AppleCardLogo from '../../../../public/home/applecard.jpg'
 
 function Applewatch() {
   return (
@@ -34,8 +34,8 @@ function Applewatch() {
 				</div>
 				<div className="links-wrapper">
 					<ul>
-						<li><a href="">Learn more</a></li>
-						<li><a href="">Buy</a></li>
+						<li><a href="#learn-more">Learn more</a></li>
+						<li><a href="#buy">Buy</a></li>
 					</ul> 
 				</div>
 			</div>	
