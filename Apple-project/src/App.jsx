@@ -6,6 +6,8 @@ import Iphone11Pro from './assets/Components/Iphone11Pro/Iphone11Pro'
 import Iphone11 from './assets/Components/Iphone11/Iphone11'
 import Applewatch from './assets/Components/AppleWatch/Applewatch'
 import Footer from './assets/Components/Footer/Footer'
+import Appletv from './assets/Components/AppleTv/Appletv'
+
 function App() {
   return (
     <>
@@ -14,6 +16,8 @@ function App() {
      <Iphone11Pro />
      <Iphone11 />
      <Applewatch />
+     <Ipad />
+     <Appletv />
      <Footer />
     </>
   )
